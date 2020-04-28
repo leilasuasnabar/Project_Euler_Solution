@@ -3,7 +3,7 @@
 # Date: 4/26/2020
 # This version contains only the best method attempted
 # For more information please check:
-# 
+# https://github.com/leilasuasnabar/Project_Euler_Solution/blob/master/Code/Euler_Problem_50.ipynb
 #______________________________________________________
 
 import numpy as np
